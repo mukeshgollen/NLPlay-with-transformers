@@ -1,3 +1,4 @@
 # NLPlay-with-transformers
 
-It contains all the code as a part of my SOC
+Week 1 :
+it introduced us to the field of nlp 
