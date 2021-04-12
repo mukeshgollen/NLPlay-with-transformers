@@ -5,3 +5,5 @@ Introduced us  to the field of Natural Language Processeing and looked at the  a
 
 **Basic- text Preprocessing**:
 Explored various features of ```nltk```  a python library for basic text preprocessing like tokenization, stemming,lemmatization , removal of stop words , removal of punctuation etc 
+
+## Week 2:
