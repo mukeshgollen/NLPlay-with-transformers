@@ -1,4 +1,7 @@
 # NLPlay-with-transformers
 
 Week 1 :
-it introduced us to the field of nlp 
+Introduction to the field of Natural Language Processeing
+We also looked at various advancements in the past few years in the field.
+
+**Basic- text Preprocessing**
