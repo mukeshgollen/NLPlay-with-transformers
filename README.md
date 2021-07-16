@@ -13,3 +13,5 @@ Frequency based ,count vectors, TF-TDF, Co -Occurence matrix ,Skip-gram model an
 Finally trained a Sentiment Classifier on the dataset ```IMDB Movie Reviews Dataset``` in which pre processing is done with the  help of ```nltk``` and the Bag of Words is used for vector genreation and a Feed forward neural network is trained in ```PyTorch```
 ## Week 3:
 Dived into the exciting domain of ```RNN``` ,looked at various types of Recurrent Neural Networks depending on our usage .Trained the classifier by using RNN. Looked at the limitations of RNN mainly Vanishing/Exploding Gradient Descent and short term dependece. 
+## Week 5:
+Looked at the fundamentals of attention which is core to transformers .Familiarised with the concept and working of transformers.
