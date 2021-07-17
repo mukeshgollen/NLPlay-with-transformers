@@ -1,6 +1,6 @@
 # NLPlay-with-transformers
 
-## Week 1 :
+## Phase 1 :
 Introduced us  to the field of Natural Language Processeing and looked at the  advancements in the past decade in the field.Also looked at the vast application of this field to many areas like speech recognition, sentiment analysis,voice assistants and many more uncountable applications.
 
 **Basic- text Preprocessing**:
@@ -13,5 +13,10 @@ Frequency based ,count vectors, TF-TDF, Co -Occurence matrix ,Skip-gram model an
 Finally trained a Sentiment Classifier on the dataset ```IMDB Movie Reviews Dataset``` in which pre processing is done with the  help of ```nltk``` and the Bag of Words is used for vector genreation and a Feed forward neural network is trained in ```PyTorch```
 ## Week 3:
 Dived into the exciting domain of ```RNN``` ,looked at various types of Recurrent Neural Networks depending on our usage .Trained the classifier by using RNN. Looked at the limitations of RNN mainly Vanishing/Exploding Gradient Descent and short term dependece. 
-## Week 5:
-Looked at the fundamentals of attention which is core to transformers .Familiarised with the concept and working of transformers.
+## Phase 2:
+Looked at the fundamentals of attention which is core to transformers.Familiarised with the concept and working of transformers.Looked at the working of ATTENTION models.
+Fine tuned ```BERT``` and ```DistilBERT``` on the ```IMDB``` dataset for sentiment Analysis achieving a accuracy of 89 percent
+
+## Phase 3:
+So far the most interesting phase ,this phase covered text generation transformer based model like ```GPT-2``` and ```T-5``` 
+Created a custom dataset of articles from vast fields.
