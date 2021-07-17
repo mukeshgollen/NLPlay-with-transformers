@@ -18,5 +18,5 @@ Looked at the fundamentals of attention which is core to transformers.Familiaris
 Fine tuned ```BERT``` and ```DistilBERT``` on the ```IMDB``` dataset for sentiment Analysis achieving a accuracy of 89 percent
 
 ## Phase 3:
-So far the most interesting phase ,this phase covered text generation transformer based model like ```GPT-2``` and ```T-5``` 
-Created a custom dataset of articles from vast fields.
+So far the most interesting phase ,this phase covered text generation transformer based model like ```GPT-2``` and ```T-5``` .
+Created a custom dataset from different fiels to work on.
